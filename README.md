@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaviLeonardoSMelo
-- 👀 I’m constructing my career with devops culture
-- 🌱 I’m currently learning dev ops tecnologys with the stack docker, kubernets and aws
-- 💞️ I’m looking to collaborate on dev ops projects
+- 👀 I’m constructing my career with devops and cloud culture
+- 🌱 I’m currently learning backend tecnologys with the stack node.js and typescript Rest API's
+- 💞️ I’m looking to collaborate on node projects 
 - 📫 How to reach me davileonardos.melo@hotmail.com 
 
 <!---
